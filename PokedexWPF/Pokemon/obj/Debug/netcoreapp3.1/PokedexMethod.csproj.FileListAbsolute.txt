@@ -1,0 +1,20 @@
+C:\Users\mitch\Source\Repos\Pokedex\PokedexWPF\Pokemon\bin\Debug\netcoreapp3.1\PokedexMethod.deps.json
+C:\Users\mitch\Source\Repos\Pokedex\PokedexWPF\Pokemon\bin\Debug\netcoreapp3.1\PokedexMethod.dll
+C:\Users\mitch\Source\Repos\Pokedex\PokedexWPF\Pokemon\obj\Debug\netcoreapp3.1\PokedexMethod.csprojAssemblyReference.cache
+C:\Users\mitch\Source\Repos\Pokedex\PokedexWPF\Pokemon\obj\Debug\netcoreapp3.1\PokedexMethod.AssemblyInfoInputs.cache
+C:\Users\mitch\Source\Repos\Pokedex\PokedexWPF\Pokemon\obj\Debug\netcoreapp3.1\PokedexMethod.AssemblyInfo.cs
+C:\Users\mitch\Source\Repos\Pokedex\PokedexWPF\Pokemon\bin\Debug\netcoreapp3.1\PokedexMethod.runtimeconfig.json
+C:\Users\mitch\Source\Repos\Pokedex\PokedexWPF\Pokemon\bin\Debug\netcoreapp3.1\PokedexMethod.runtimeconfig.dev.json
+C:\Users\mitch\Source\Repos\Pokedex\PokedexWPF\Pokemon\bin\Debug\netcoreapp3.1\PokedexMethod.pdb
+C:\Users\mitch\Source\Repos\Pokedex\PokedexWPF\Pokemon\obj\Debug\netcoreapp3.1\PokedexMethod.dll
+C:\Users\mitch\Source\Repos\Pokedex\PokedexWPF\Pokemon\obj\Debug\netcoreapp3.1\PokedexMethod.pdb
+C:\Users\TECH-W129birm\Documents\Sparta Global Mitchell Work\Week 6\PokedexWPF\Pokemon\bin\Debug\netcoreapp3.1\PokedexMethod.deps.json
+C:\Users\TECH-W129birm\Documents\Sparta Global Mitchell Work\Week 6\PokedexWPF\Pokemon\bin\Debug\netcoreapp3.1\PokedexMethod.runtimeconfig.json
+C:\Users\TECH-W129birm\Documents\Sparta Global Mitchell Work\Week 6\PokedexWPF\Pokemon\bin\Debug\netcoreapp3.1\PokedexMethod.runtimeconfig.dev.json
+C:\Users\TECH-W129birm\Documents\Sparta Global Mitchell Work\Week 6\PokedexWPF\Pokemon\bin\Debug\netcoreapp3.1\PokedexMethod.dll
+C:\Users\TECH-W129birm\Documents\Sparta Global Mitchell Work\Week 6\PokedexWPF\Pokemon\bin\Debug\netcoreapp3.1\PokedexMethod.pdb
+C:\Users\TECH-W129birm\Documents\Sparta Global Mitchell Work\Week 6\PokedexWPF\Pokemon\obj\Debug\netcoreapp3.1\PokedexMethod.AssemblyInfoInputs.cache
+C:\Users\TECH-W129birm\Documents\Sparta Global Mitchell Work\Week 6\PokedexWPF\Pokemon\obj\Debug\netcoreapp3.1\PokedexMethod.AssemblyInfo.cs
+C:\Users\TECH-W129birm\Documents\Sparta Global Mitchell Work\Week 6\PokedexWPF\Pokemon\obj\Debug\netcoreapp3.1\PokedexMethod.dll
+C:\Users\TECH-W129birm\Documents\Sparta Global Mitchell Work\Week 6\PokedexWPF\Pokemon\obj\Debug\netcoreapp3.1\PokedexMethod.pdb
+C:\Users\TECH-W129birm\Documents\Sparta Global Mitchell Work\Week 6\PokedexWPF\Pokemon\obj\Debug\netcoreapp3.1\PokedexMethod.csprojAssemblyReference.cache

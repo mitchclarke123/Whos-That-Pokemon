@@ -1,0 +1,58 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="bulbasaur blacked.jpg" />
+    <None Remove="Bulbasaur Blacked.png" />
+    <None Remove="Bulbasaur.jpg" />
+    <None Remove="Bulbasaur.png" />
+    <None Remove="Diglett Blacked.png" />
+    <None Remove="Diglett.png" />
+    <None Remove="Main menu pic1.0.jpg" />
+    <None Remove="Pikachu Blacked.png" />
+    <None Remove="Pikachu.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialDesignColors" Version="1.2.2" />
+    <PackageReference Include="MaterialDesignThemes" Version="3.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Pokemon\PokedexMethod.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="bulbasaur blacked.jpg" />
+    <Resource Include="Bulbasaur Blacked.png" />
+    <Resource Include="Bulbasaur.jpg" />
+    <Resource Include="Bulbasaur.png" />
+    <Resource Include="Diglett Blacked.png" />
+    <Resource Include="Diglett.png" />
+    <Resource Include="Main menu pic1.0.jpg" />
+    <Resource Include="Pikachu Blacked.png" />
+    <Resource Include="Pikachu.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="NewFolder\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="PlayWindow.2xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+  </ItemGroup>
+
+</Project>
